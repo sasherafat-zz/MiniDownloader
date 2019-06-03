@@ -1,0 +1,10 @@
+D:\az\Downloader\Downloader\bin\Release\Downloader.exe.config
+D:\az\Downloader\Downloader\bin\Release\Downloader.exe
+D:\az\Downloader\Downloader\bin\Release\Downloader.pdb
+D:\az\Downloader\Downloader\obj\Release\Downloader.csprojAssemblyReference.cache
+D:\az\Downloader\Downloader\obj\Release\Downloader.Form1.resources
+D:\az\Downloader\Downloader\obj\Release\Downloader.Properties.Resources.resources
+D:\az\Downloader\Downloader\obj\Release\Downloader.csproj.GenerateResource.cache
+D:\az\Downloader\Downloader\obj\Release\Downloader.csproj.CoreCompileInputs.cache
+D:\az\Downloader\Downloader\obj\Release\Downloader.exe
+D:\az\Downloader\Downloader\obj\Release\Downloader.pdb
